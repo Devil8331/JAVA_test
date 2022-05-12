@@ -8,10 +8,9 @@ public class Recatngle {
 
 	 Recatngle(){
 
-	   this.length=0; // assuming default length=0
+	   this.length=0; 
 
-	   this.width=0; // assuming default width=0
-
+	   this.width=0; 
 	 }
 
 	 Recatngle(int length, int width){
